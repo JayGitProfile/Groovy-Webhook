@@ -1,0 +1,10 @@
+method groovy.lang.GString getBytes
+method java.net.HttpURLConnection getResponseCode
+method java.net.URL openConnection
+method java.net.URLConnection getContent
+method java.net.URLConnection getInputStream
+method java.net.URLConnection setRequestProperty java.lang.String java.lang.String
+staticMethod org.apache.commons.io.IOUtils toString java.io.InputStream
+staticMethod org.codehaus.groovy.runtime.DefaultGroovyMethods getText java.io.InputStream
+staticMethod org.codehaus.groovy.runtime.DefaultGroovyMethods toURL java.lang.String
+staticMethod org.codehaus.groovy.runtime.EncodingGroovyMethods encodeBase64 byte[]
